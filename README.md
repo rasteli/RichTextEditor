@@ -1,6 +1,7 @@
-
 # Rich Text Editor
 
 > **A simple rich text editor**
 
-*Preview*
+_Preview_
+
+![Preview gif](/assets/rich-text-editor.gif)
