@@ -4,4 +4,4 @@
 
 _Preview_
 
-![Preview gif](/assets/rich-text-editor.gif)
+![Preview gif](/assets/rich-text-editor-mp4.gif)
